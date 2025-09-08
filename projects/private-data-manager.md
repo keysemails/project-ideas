@@ -5,8 +5,10 @@
 - [Nillion Private Storage Docs](https://docs.nillion.com/build/private-storage/overview)
     - Collection Type: [User Owned Collections](https://docs.nillion.com/build/private-storage/overview#collection-types)
     - [User Owned Collections Node.js Quickstart](https://docs.nillion.com/build/private-storage/quickstart)
+    
 - [secretvaults-ts GitHub](https://github.com/NillionNetwork/secretvaults-ts)
-    - [TypeScript SecretVaultUserClient TypeDoc](https://nillion.pub/secretvaults-ts/classes/SecretVaultUserClient.html)
+    - [SecretVaults SDK TypeScript Docs](https://docs.nillion.com/build/private-storage/ts-docs), installation steps, and examples
+    - [TypeDoc](https://nillion.pub/secretvaults-ts/classes/SecretVaultUserClient.html)
 
 ## The Problem
 
